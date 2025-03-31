@@ -40,8 +40,8 @@
 - 🌟 **Desarrollador Frontend autodidacta y apasionado**  
 - 🎮 **Amante de los retos tecnológicos y CTF en mi tiempo libre**  
 - 📚 **Actualmente aprendiendo Desarrollo Web por mi cuenta**  
-- 🌐 **Mi sitio web personal:** [tu-sitio-web.com](https://tu-sitio-web.com)  
-- 💼 **Abierto a oportunidades de pasantías o empleo:** [Mi currículum](https://tu-curriculum.com)
+- 🌐 **Mi sitio web personal:** [tu-sitio-web.com] 
+- 💼 **Abierto a oportunidades de pasantías o empleo:** [Mi currículum]
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

@@ -63,31 +63,31 @@
   </tr>
   <tr>
     <td align="center">🗣️</td>
-    <td><b>Comunicación Verbal (Intermedio):</b> Claridad en la transmisión de ideas.</td>
+    <td><b>Comunicación Verbal:</b> Claridad en la transmisión de ideas.</td>
   </tr>
   <tr>
     <td align="center">📅</td>
-    <td><b>Organización (Avanzado):</b> Gestión eficiente de tareas y proyectos.</td>
+    <td><b>Organización:</b> Gestión eficiente de tareas y proyectos.</td>
   </tr>
   <tr>
     <td align="center">❤️</td>
-    <td><b>Empatía (Intermedio):</b> Comprensión de diferentes perspectivas.</td>
+    <td><b>Empatía:</b> Comprensión de diferentes perspectivas.</td>
   </tr>
   <tr>
     <td align="center">🔄</td>
-    <td><b>Adaptabilidad (Avanzado):</b> Flexibilidad para ajustarse a cambios y mantener el enfoque en resultados.</td>
+    <td><b>Adaptabilidad:</b> Flexibilidad para ajustarse a cambios y mantener el enfoque en resultados.</td>
   </tr>
   <tr>
     <td align="center">📊</td>
-    <td><b>Pensamiento Crítico (Intermedio):</b> Evaluación objetiva de información para tomar decisiones informadas.</td>
+    <td><b>Pensamiento Crítico:</b> Evaluación objetiva de información para tomar decisiones informadas.</td>
   </tr>
   <tr>
     <td align="center">💡</td>
-    <td><b>Creatividad (Avanzado):</b> Innovación en la generación de ideas y soluciones.</td>
+    <td><b>Creatividad:</b> Innovación en la generación de ideas y soluciones.</td>
   </tr>
   <tr>
     <td align="center">🌟</td>
-    <td><b>Persuasión (Intermedio):</b> Influencia positiva para lograr consenso en proyectos.</td>
+    <td><b>Persuasión:</b> Influencia positiva para lograr consenso en proyectos.</td>
   </tr>
 </table>
 

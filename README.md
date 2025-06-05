@@ -6,12 +6,12 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25¢er=true&vCenter=true&width=600&height=100&lines=¡Bienvenidos+a+mi+perfil!;Desarrollador+Frontend+Autodidacta;Estudiante+de+Ciencias+de+la+Computación;Apasionado+por+aprender+y+crear">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Bienvenidos+a+mi+perfil!;Desarrollador+Frontend+Autodidacta;Estudiante+de+Ciencias+de+la+Computación;Apasionado+por+aprender+y+crear">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=F3lip3-xz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -40,8 +40,6 @@
 - 🌟 **Desarrollador Frontend autodidacta y apasionado**  
 - 🎮 **Amante de los retos tecnológicos y CTF en mi tiempo libre**  
 - 📚 **Actualmente aprendiendo Desarrollo Web por mi cuenta**  
-- 🌐 **Mi sitio web personal:** [tu-sitio-web.com] 
-- 💼 **Abierto a oportunidades de pasantías o empleo:** [Mi currículum]
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -113,12 +111,17 @@
     <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   </p>
 
+- **Desarrollo Web & APIs:**  
+  <p align="center">
+    🔗 <b>RESTful APIs:</b> Diseño y desarrollo de APIs para aplicaciones web.  
+    🌐 <b>Frontend y Backend:</b> Creación de interfaces de usuario y lógica de servidor.
+  </p>
+
 **Frameworks y Librerías:**  
 <p align="center">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p>
-
 
 #### Conocimientos de Computación
 - **Hardware:**  
@@ -136,12 +139,27 @@
     ⚙️ <b>Administración de Sistemas:</b> Instalación, configuración y mantenimiento de sistemas operativos.
   </p>
 
+startup_list_item
+
 #### Herramientas
 <p align="center">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
+
+---
+
+## 📜 Certificaciones
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8k8a1zF3Z7a/giphy.gif" width="50">
+</p>
+
+- **Ciberseguridad en Entornos de Aprendizaje Digitales** - SENCE, Fundación Telefónica Movistar (30 horas, 2025)
+- **Programación con JavaScript** - SENCE, Fundación Telefónica Movistar (40 horas, 2025)
+- **Aprende WordPress** - SENCE, Fundación Telefónica Movistar (30 horas, 2025)
+
+---
 
 ### 🌍 Idiomas
 <p align="center">
@@ -159,13 +177,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-henríquez-b7a356244" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?style-for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:feliandres67@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style-for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style-for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
